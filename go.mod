@@ -29,7 +29,8 @@ require (
 	github.com/filecoin-project/go-statestore v0.2.0
 	github.com/filecoin-project/specs-actors/v2 v2.3.6
 	github.com/filecoin-project/specs-actors/v7 v7.0.1
-	github.com/filecoin-project/venus v1.9.0-rc1.0.20230203064217-14f0513a243e
+	github.com/filecoin-project/specs-storage v0.4.1
+	github.com/filecoin-project/venus v1.9.0-rc1.0.20230208094740-fb64fb68804c
 	github.com/filecoin-project/venus-auth v1.9.0
 	github.com/filecoin-project/venus-messager v1.9.0-rc1
 	github.com/golang/mock v1.6.0
@@ -135,7 +136,6 @@ require (
 	github.com/filecoin-project/specs-actors/v4 v4.0.2 // indirect
 	github.com/filecoin-project/specs-actors/v5 v5.0.6 // indirect
 	github.com/filecoin-project/specs-actors/v6 v6.0.2 // indirect
-	github.com/filecoin-project/specs-storage v0.4.1 // indirect
 	github.com/filecoin-project/storetheindex v0.4.17 // indirect
 	github.com/flynn/noise v1.0.0 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
@@ -207,7 +207,6 @@ require (
 	github.com/libp2p/go-flow-metrics v0.1.0 // indirect
 	github.com/libp2p/go-libp2p-asn-util v0.2.0 // indirect
 	github.com/libp2p/go-libp2p-core v0.20.0 // indirect
-	github.com/libp2p/go-libp2p-peerstore v0.8.0 // indirect
 	github.com/libp2p/go-libp2p-pubsub v0.8.0 // indirect
 	github.com/libp2p/go-msgio v0.2.0 // indirect
 	github.com/libp2p/go-nat v0.1.0 // indirect
